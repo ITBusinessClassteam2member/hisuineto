@@ -118,7 +118,7 @@
 //   console.log(`Server is running on port ${PORT}`);
 // });
 //--------------------------------------------------------------
-const { Client, middleware } = require("@line/bot-sdk");
+﻿const { Client, middleware } = require("@line/bot-sdk");
 const express = require("express");
 const axios = require("axios");
 require("dotenv").config();
